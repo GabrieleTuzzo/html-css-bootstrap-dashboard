@@ -1,0 +1,7 @@
+.ms_placeholder-black.form-control::placeholder {
+    color: black;
+}
+
+.navbar .ms_logo {
+    height: 70px;
+}
