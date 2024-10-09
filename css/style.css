@@ -5,3 +5,7 @@
 .navbar .ms_logo {
     height: 70px;
 }
+
+.ms_resize-none {
+    resize: none;
+}
